@@ -9,3 +9,14 @@
     font-weight: 400;
     color: blue;
 }
+.product img{
+    width: 200px;
+    height: 200px;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+}
